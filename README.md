@@ -5,11 +5,10 @@ Content:
 
 In this assignment you will extract information from the
 following wiki page:
-https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_S
-kywalker
+https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker
 
 > 1.1 You have to extract all links from the page as well
-as where they point to (tip: look for the “href” attribute
+as where they point to (tip: look for the “href” attributeCancel changes
 in “<a>” tags).  You must print out absolute link
 reference.
 
