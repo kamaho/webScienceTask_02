@@ -1,7 +1,7 @@
-Short Description:
+Content:
 This is all the files related to my obligatory assignment #02 in web science.
 
-Content:
+Assignment description:
 
 In this assignment you will extract information from the
 following wiki page:
